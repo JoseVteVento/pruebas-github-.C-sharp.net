@@ -1,0 +1,9 @@
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github\Pruebas github\bin\Debug\Pruebas github.exe.config
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github\Pruebas github\bin\Debug\Pruebas github.exe
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github\Pruebas github\bin\Debug\Pruebas github.pdb
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github\Pruebas github\obj\Debug\Pruebas github.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github\Pruebas github\obj\Debug\Pruebas_github.Form1.resources
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github\Pruebas github\obj\Debug\Pruebas_github.Properties.Resources.resources
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github\Pruebas github\obj\Debug\Pruebas github.csproj.GenerateResource.Cache
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github\Pruebas github\obj\Debug\Pruebas github.exe
+C:\Users\Jose\Desktop\Proyectos\VisualStudio\Pruebas github\Pruebas github\obj\Debug\Pruebas github.pdb
